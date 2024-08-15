@@ -1,0 +1,10 @@
+{
+  "firstName": "Michael",
+  "lastName": "Scott",
+  "password": "Password1",
+  "incorrectPassword": "Password2",
+  "streetAddress": "street 1",
+  "city": "New York",
+  "postalCode": "0115",
+  "phoneNumber": "123456789"
+}
